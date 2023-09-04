@@ -4,3 +4,6 @@
 ``` python
 print('Am I great at Github?')
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
